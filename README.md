@@ -8,8 +8,7 @@ A simple web app that allows users to explore Star Wars characters and films usi
     Clone the repository:
    ```bash
    git clone https://github.com/oscargomezponce/oscargomez-ctd-advprework.git
-2. Navigating to the folder:
-    cd oscargomez-ctd-advprework
+2. Navigating to the folder you saved it in.
 3. Open index.html in your web browser.
 
 # Final notes
